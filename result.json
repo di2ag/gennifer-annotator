@@ -1,0 +1,3122 @@
+{
+  "model": "tr_ars.message",
+  "pk": "d4d6a825-cb71-408b-b63a-6a6298f4655c",
+  "fields": {
+    "name": "ars-ars-agent",
+    "code": 200,
+    "status": "Done",
+    "actor": 25,
+    "timestamp": "2023-09-06T01:11:41.402Z",
+    "updated_at": "2023-09-06T01:11:42.956Z",
+    "data": {
+      "message": {
+        "results": [
+          {
+            "id": null,
+            "rank": 2,
+            "pfocr": [
+              {
+                "pmc": "PMC1052012",
+                "score": 0.5,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1052012/bin/JCI0524408.f3.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC7700351",
+                "score": 0.5,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700351/bin/brainsci-10-00893-g004.jpg",
+                "matchedCuries": [
+                  "NCBIGene:2033",
+                  "NCBIGene:3091"
+                ]
+              },
+              {
+                "pmc": "PMC7550387",
+                "score": 0.5,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550387/bin/43440_2020_142_Sch1_HTML.jpg",
+                "matchedCuries": [
+                  "NCBIGene:2033",
+                  "NCBIGene:3091"
+                ]
+              },
+              {
+                "pmc": "PMC7166133",
+                "score": 0.4444444444444445,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7166133/bin/ten.teb.2019.0283_figure4.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3871878",
+                "score": 0.4444444444444445,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3871878/bin/nihms-523094-f0001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC2841224",
+                "score": 0.4444444444444445,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841224/bin/nihms-171516-f0005.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC4091760",
+                "score": 0.4444444444444445,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4091760/bin/nihms594767f3.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC5489807",
+                "score": 0.4444444444444445,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5489807/bin/biomedicines-05-00021-g002.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3476533",
+                "score": 0.4,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476533/bin/gr1.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3752727",
+                "score": 0.4,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3752727/bin/ijmsv10p1412g01.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3789845",
+                "score": 0.4,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789845/bin/nihms516573f1.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC6771077",
+                "score": 0.4,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6771077/bin/eor-4-567-g002.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3166177",
+                "score": 0.3636363636363637,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166177/bin/fig-6.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC3140692",
+                "score": 0.3636363636363637,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140692/bin/nihms-311210-f0003.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC4629436",
+                "score": 0.3636363636363637,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629436/bin/fx1.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC4404395",
+                "score": 0.3636363636363637,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404395/bin/WJSC-7-605-g002.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC2964873",
+                "score": 0.3333333333333333,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2964873/bin/oncotarget-01-379-g001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC6017830",
+                "score": 0.3333333333333333,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6017830/bin/molecules-23-00885-g001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC5799081",
+                "score": 0.3333333333333333,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5799081/bin/nihms937544f3.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              },
+              {
+                "pmc": "PMC6027519",
+                "score": 0.3333333333333333,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6027519/bin/biomedicines-06-00056-g001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:3091",
+                  "NCBIGene:2033"
+                ]
+              }
+            ],
+            "score": null,
+            "sugeno": 1,
+            "essence": null,
+            "analyses": [
+              {
+                "score": 1.0,
+                "attributes": null,
+                "resource_id": "infores:rtx-kg2",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "infores:rtx-kg2:NCBIGene:2033--biolink:directly_physically_interacts_with--None--None--None--NCBIGene:3091--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:automat-intact:UniProtKB:Q09472--biolink:directly_physically_interacts_with--None--None--None--UniProtKB:Q16665--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:spoke:UniProtKB:Q09472--biolink:interacts_with--None--None--None--UniProtKB:Q16665--infores:string",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:spoke:NCBIGene:3091--biolink:regulates--biolink:causes--decreased--activity_or_abundance--NCBIGene:2033--infores:lincs",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:automat-hetio:NCBIGene:2033--biolink:genetically_interacts_with--None--None--None--NCBIGene:3091--infores:hetionet",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:service-provider-trapi:NCBIGene:3091--biolink:physically_interacts_with--None--None--None--NCBIGene:2033--infores:biogrid",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:service-provider-trapi:NCBIGene:3091--biolink:interacts_with--None--None--None--NCBIGene:2033--infores:monarchinitiative",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:rtx-kg2:NCBIGene:3091--biolink:physically_interacts_with--None--None--None--NCBIGene:2033--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:rtx-kg2:NCBIGene:3091--biolink:directly_physically_interacts_with--None--None--None--NCBIGene:2033--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:rtx-kg2:NCBIGene:2033--biolink:physically_interacts_with--None--None--None--NCBIGene:3091--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:rtx-kg2:NCBIGene:2033--biolink:physically_interacts_with--None--None--None--NCBIGene:3091--infores:semmeddb",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:automat-intact:UniProtKB:Q16665--biolink:directly_physically_interacts_with--None--None--None--UniProtKB:Q09472--infores:intact",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:automat-hetio:NCBIGene:2033--biolink:regulates--None--None--None--NCBIGene:3091--infores:lincs",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": null
+              },
+              {
+                "score": 0.0,
+                "attributes": null,
+                "resource_id": "infores:improving-agent",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "24734481",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": null
+              },
+              {
+                "score": 0.5844005636648607,
+                "attributes": null,
+                "resource_id": "infores:aragorn",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "1a4c7930fbcf",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": [
+                  "OMNICORP_support_graph_1"
+                ]
+              },
+              {
+                "score": 0.6880057038002636,
+                "attributes": null,
+                "resource_id": "infores:biothings-explorer",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "96d20a5d0420194abf27a8ea91370c4d",
+                      "attributes": null
+                    },
+                    {
+                      "id": "223338f05ef699d16b547fedcd28c3a0",
+                      "attributes": null
+                    },
+                    {
+                      "id": "090ab1e601020b97a3a50f299d900cdc",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": null
+              }
+            ],
+            "row_data": [
+              1.0,
+              null,
+              null
+            ],
+            "confidence": null,
+            "score_name": null,
+            "description": "No description available",
+            "resource_id": "ARAX",
+            "result_group": null,
+            "node_bindings": {
+              "n00": [
+                {
+                  "id": "NCBIGene:3091",
+                  "query_id": null,
+                  "attributes": null
+                }
+              ],
+              "n01": [
+                {
+                  "id": "NCBIGene:2033",
+                  "query_id": null,
+                  "attributes": null
+                }
+              ]
+            },
+            "weighted_mean": 0.47619047619047616,
+            "score_direction": null,
+            "essence_category": null,
+            "normalized_score": 100.0,
+            "ordering_components": {
+              "novelty": 0.0,
+              "confidence": 1,
+              "clinical_evidence": 0.0
+            },
+            "result_group_similarity_score": null
+          },
+          {
+            "id": null,
+            "rank": 2,
+            "pfocr": [
+              {
+                "pmc": "PMC3209603",
+                "score": 0.2,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3209603/bin/ijcep0004-0637-f2.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3602989",
+                "score": 0.2,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3602989/bin/IJEM-16-596-g001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3857640",
+                "score": 0.2,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3857640/bin/nihms460775f5.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC5766282",
+                "score": 0.2,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5766282/bin/nihms929444f12.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3464875",
+                "score": 0.1904761904761905,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464875/bin/1476-4598-11-24-7.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC2949294",
+                "score": 0.1818181818181818,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949294/bin/nihms216740f7.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3112342",
+                "score": 0.1818181818181818,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3112342/bin/imm0133-0329-f6.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC6107958",
+                "score": 0.1818181818181818,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107958/bin/12943_2018_864_Fig2_HTML.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC2886808",
+                "score": 0.17391304347826086,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886808/bin/nihms205038f1.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC4292460",
+                "score": 0.17391304347826086,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292460/bin/kisl-06-e950547-g003.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC6386770",
+                "score": 0.16666666666666669,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6386770/bin/gr1.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC5606116",
+                "score": 0.16666666666666669,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5606116/bin/12943_2017_721_Fig2_HTML.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC7352628",
+                "score": 0.16,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7352628/bin/cancers-12-01377-g007.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3508514",
+                "score": 0.16,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3508514/bin/nihms421465f3.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC7954429",
+                "score": 0.16,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7954429/bin/ITT-10-47-g0001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC2820251",
+                "score": 0.15384615384615383,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820251/bin/nihms171839f2.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3283604",
+                "score": 0.15384615384615383,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3283604/bin/pone.0030592.g006.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC3844070",
+                "score": 0.15384615384615383,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3844070/bin/nihms-497150-f0001.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC5216912",
+                "score": 0.15384615384615383,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5216912/bin/oncotarget-07-46899-g007.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              },
+              {
+                "pmc": "PMC6608078",
+                "score": 0.15384615384615383,
+                "figureUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6608078/bin/JLB-102-393-g002.jpg",
+                "matchedCuries": [
+                  "NCBIGene:5291",
+                  "NCBIGene:3718"
+                ]
+              }
+            ],
+            "score": null,
+            "sugeno": 1,
+            "essence": null,
+            "analyses": [
+              {
+                "score": 0.2449186624037092,
+                "attributes": null,
+                "resource_id": "infores:biothings-explorer",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "96048bedb1d0401a83d50f339808301b",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": null
+              },
+              {
+                "score": 0.34565980572070937,
+                "attributes": null,
+                "resource_id": "infores:aragorn",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "b8bb0713c321",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": [
+                  "OMNICORP_support_graph_2"
+                ]
+              },
+              {
+                "score": 0.5,
+                "attributes": null,
+                "resource_id": "infores:rtx-kg2",
+                "edge_bindings": {
+                  "e00": [
+                    {
+                      "id": "infores:spoke:UniProtKB:P42338--biolink:interacts_with--None--None--None--UniProtKB:P52333--infores:string",
+                      "attributes": null
+                    },
+                    {
+                      "id": "infores:service-provider-trapi:NCBIGene:5291--biolink:interacts_with--None--None--None--NCBIGene:3718--infores:monarchinitiative",
+                      "attributes": null
+                    }
+                  ]
+                },
+                "scoring_method": null,
+                "support_graphs": null
+              }
+            ],
+            "row_data": [
+              0.5,
+              null,
+              null
+            ],
+            "confidence": null,
+            "score_name": null,
+            "description": "No description available",
+            "resource_id": "ARAX",
+            "result_group": null,
+            "node_bindings": {
+              "n00": [
+                {
+                  "id": "NCBIGene:5291",
+                  "query_id": null,
+                  "attributes": null
+                }
+              ],
+              "n01": [
+                {
+                  "id": "NCBIGene:3718",
+                  "query_id": null,
+                  "attributes": null
+                }
+              ]
+            },
+            "weighted_mean": 0.47619047619047616,
+            "score_direction": null,
+            "essence_category": null,
+            "normalized_score": 50.0,
+            "ordering_components": {
+              "novelty": 0.0,
+              "confidence": 1,
+              "clinical_evidence": 0.0
+            },
+            "result_group_similarity_score": null
+          }
+        ],
+        "query_graph": {
+          "edges": {
+            "e00": {
+              "object": "n01",
+              "exclude": null,
+              "subject": "n00",
+              "predicates": [
+                "biolink:related_to"
+              ],
+              "knowledge_type": null,
+              "option_group_id": null,
+              "attribute_constraints": [],
+              "qualifier_constraints": []
+            }
+          },
+          "nodes": {
+            "n00": {
+              "ids": [
+                "ENSEMBL:ENSG00000100644",
+                "ENSEMBL:ENSG00000051382"
+              ],
+              "is_set": false,
+              "categories": [
+                "biolink:Gene"
+              ],
+              "constraints": [],
+              "option_group_id": null
+            },
+            "n01": {
+              "ids": [
+                "ENSEMBL:ENSG00000057657",
+                "ENSEMBL:ENSG00000100393",
+                "ENSEMBL:ENSG00000105639"
+              ],
+              "is_set": false,
+              "categories": [
+                "biolink:Gene"
+              ],
+              "constraints": [],
+              "option_group_id": null
+            }
+          }
+        },
+        "knowledge_graph": {
+          "edges": {
+            "24734481": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:lincs",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:lincs"
+                  ]
+                },
+                {
+                  "resource_id": "infores:improving-agent",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:lincs",
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:regulates",
+              "attributes": [
+                {
+                  "value": -5.768292242717185,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "zscore"
+                },
+                {
+                  "value": 7.831711846682216e-06,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:p_value",
+                  "original_attribute_name": "pvalue"
+                }
+              ],
+              "qualifiers": [
+                {
+                  "qualifier_value": "activity_or_abundance",
+                  "qualifier_type_id": "biolink:object_aspect_qualifier"
+                },
+                {
+                  "qualifier_value": "decreased",
+                  "qualifier_type_id": "biolink:object_direction_qualifier"
+                },
+                {
+                  "qualifier_value": "biolink:causes",
+                  "qualifier_type_id": "biolink:qualified_predicate"
+                }
+              ]
+            },
+            "1a4c7930fbcf": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:string",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:string"
+                  ]
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": 0.974,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "experiments_score"
+                },
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "neighborhood_score"
+                },
+                {
+                  "value": 0.614,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "textmining_score"
+                },
+                {
+                  "value": 0.055,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "coexpression_score"
+                },
+                {
+                  "value": 0.9,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "databases_score"
+                },
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "fusion_score"
+                },
+                {
+                  "value": 0.999051598,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "score"
+                },
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "cooccurrence_score"
+                },
+                {
+                  "value": 0.9974,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "exp_score"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "275ad67291ee": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:lincs"
+                  ]
+                },
+                {
+                  "resource_id": "infores:lincs",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:regulates",
+              "attributes": [
+                {
+                  "value": 7.831711846682216e-06,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:p_value",
+                  "original_attribute_name": "pvalue"
+                },
+                {
+                  "value": -5.768292242717185,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "zscore"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ],
+              "qualifiers": [
+                {
+                  "qualifier_value": "decreased",
+                  "qualifier_type_id": "biolink:object_direction_qualifier"
+                },
+                {
+                  "qualifier_value": "activity_or_abundance",
+                  "qualifier_type_id": "biolink:object_aspect_qualifier"
+                },
+                {
+                  "qualifier_value": "biolink:causes",
+                  "qualifier_type_id": "biolink:qualified_predicate"
+                }
+              ]
+            },
+            "2e21bf8bbdfa": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                },
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q16665---MI:0915---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact",
+                    "UniProtKB:Q16665---MI:0914---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact"
+                  ],
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_type_id": "biolink:original_predicate"
+                },
+                {
+                  "value": [
+                    "PMID:19071119",
+                    "PMID:23746844"
+                  ],
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "474660602a7b": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:automat-hetio"
+                  ]
+                },
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:automat-hetio",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                },
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:genetically_interacts_with",
+              "attributes": [
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "5a7b42e1f27f": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                },
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q09472---MI:0407---None---None---None---UniProtKB:Q16665---identifiers_org_registry:intact"
+                  ],
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_type_id": "biolink:original_predicate"
+                },
+                {
+                  "value": [
+                    "PMID:17382325"
+                  ],
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "916f2b44f7ec": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                },
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q16665---MI:0407---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact"
+                  ],
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_type_id": "biolink:original_predicate"
+                },
+                {
+                  "value": [
+                    "PMID:17382325"
+                  ],
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "9214a37409ed": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:lincs",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:lincs"
+                  ]
+                },
+                {
+                  "resource_id": "infores:automat-hetio",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:automat-hetio"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:regulates",
+              "attributes": [
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "b8bb0713c321": {
+              "object": "NCBIGene:3718",
+              "sources": [
+                {
+                  "resource_id": "infores:string",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:string"
+                  ]
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:5291",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "neighborhood_score"
+                },
+                {
+                  "value": 0.9124,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "exp_score"
+                },
+                {
+                  "value": 0.9278611372,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "score"
+                },
+                {
+                  "value": 0.123,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "textmining_score"
+                },
+                {
+                  "value": 0.124,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "experiments_score"
+                },
+                {
+                  "value": 0.061,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "coexpression_score"
+                },
+                {
+                  "value": 0.9,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "databases_score"
+                },
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "fusion_score"
+                },
+                {
+                  "value": 0.0,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "cooccurrence_score"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "cc5cb7db69c3": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                },
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q09472---MI:0915---None---None---None---UniProtKB:Q16665---identifiers_org_registry:intact"
+                  ],
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_type_id": "biolink:original_predicate"
+                },
+                {
+                  "value": [
+                    "PMID:15261140"
+                  ],
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "f37da1885162": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:semmeddb"
+                  ]
+                },
+                {
+                  "resource_id": "infores:semmeddb",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "PMID:35656479",
+                    "PMID:22908229",
+                    "PMID:34472840",
+                    "PMID:35635894",
+                    "PMID:32211322"
+                  ],
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:semmeddb",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": [
+                    "UMLS:C1333336---SEMMEDDB:interacts_with---None---None---None---NCBIGene:3091---SEMMEDDB:",
+                    "UMLS:C1530358---SEMMEDDB:interacts_with---None---None---None---NCBIGene:3091---SEMMEDDB:",
+                    "UMLS:C1333336---SEMMEDDB:interacts_with---None---None---None---UMLS:C1333897---SEMMEDDB:"
+                  ],
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_type_id": "biolink:original_predicate"
+                },
+                {
+                  "value": {
+                    "PMID:22908229": {
+                      "sentence": "Mechanistically, p300 specifically acetylates HIF1alpha at Lys-709, which increases the protein stability and decreases polyubiquitination in both normoxia and hypoxia.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2012 Oct 12"
+                    },
+                    "PMID:32211322": {
+                      "sentence": "Our data suggested that NLGP prevented hypoxia-induced strong binding of HIF1alpha with its co-factors, CBP/p300 and Sp3, but not with Sp1, which eventually limit the binding of HIF1alpha-transcriptional complex to hypoxia responsive element of VEGF promoter and results in restricted early VEGF transcription.",
+                      "object score": 1000,
+                      "subject score": 888,
+                      "publication date": "2020"
+                    },
+                    "PMID:34472840": {
+                      "sentence": "Disrupting the interaction between HIF1alpha and p300 is a promising strategy to modulate the hypoxia response of tumor cells.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2021 Sep 02"
+                    },
+                    "PMID:35635894": {
+                      "sentence": "HIF-1alpha activity is mainly regulated by its transcriptional co-activator p300 which has histone acetyl-transferase (HAT) activity.",
+                      "object score": 901,
+                      "subject score": 861,
+                      "publication date": "2022 May 18"
+                    },
+                    "PMID:35656479": {
+                      "sentence": "Although there is significant structural and mechanistic understanding of the interaction between HIF-1alpha and p300 alongside negative regulators of HIF-1alpha such as CITED2, there remains a need to further understand the sequence determinants of binding.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2022 May 11"
+                    }
+                  },
+                  "attribute_source": "infores:semmeddb",
+                  "attribute_type_id": "bts:sentence"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "090ab1e601020b97a3a50f299d900cdc": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:biogrid",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:biothings-multiomics-biggim-drugresponse",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:biogrid"
+                  ]
+                },
+                {
+                  "resource_id": "infores:biothings-explorer",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:biothings-multiomics-biggim-drugresponse"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": "PMID:23880760",
+                  "attribute_type_id": "biolink:publications"
+                },
+                {
+                  "value": "infores:biogrid",
+                  "attributes": [
+                    {
+                      "value": "infores:biogrid",
+                      "attribute_type_id": "biolink:source_infores"
+                    }
+                  ],
+                  "attribute_type_id": "biolink:primary_knowledge_source"
+                },
+                {
+                  "value": "infores:biothings-multiomics-biggim-drugresponse",
+                  "attribute_type_id": "biolink:aggregator_knowledge_source"
+                }
+              ]
+            },
+            "223338f05ef699d16b547fedcd28c3a0": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:monarchinitiative",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:biolink-api",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:monarchinitiative"
+                  ]
+                },
+                {
+                  "resource_id": "infores:biothings-explorer",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:biolink-api"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "PMID:20603618",
+                    "PMID:12588875",
+                    "PMID:25192544",
+                    "PMID:8917528",
+                    "PMID:15280364",
+                    "PMID:21187066",
+                    "PMID:26826385",
+                    "PMID:15155277",
+                    "PMID:16189267",
+                    "PMID:15342390",
+                    "PMID:15261140",
+                    "PMID:20000859",
+                    "PMID:26135796",
+                    "PMID:19940151",
+                    "PMID:24421387",
+                    "PMID:12042299",
+                    "PMID:18047470",
+                    "PMID:11823643",
+                    "PMID:16081065",
+                    "PMID:14691445",
+                    "PMID:22789427",
+                    "PMID:15154850",
+                    "PMID:11940656",
+                    "PMID:12914934",
+                    "PMID:23618863",
+                    "PMID:16543236",
+                    "PMID:27320910",
+                    "PMID:23448368",
+                    "PMID:23746844",
+                    "PMID:22684029",
+                    "PMID:26944191",
+                    "PMID:23880760",
+                    "PMID:24821806",
+                    "PMID:11063749",
+                    "PMID:16847340",
+                    "PMID:19696166",
+                    "PMID:20829524",
+                    "PMID:17906695",
+                    "PMID:22735262",
+                    "PMID:12778114",
+                    "PMID:19680224",
+                    "PMID:11959990",
+                    "PMID:22219185",
+                    "PMID:23966271",
+                    "PMID:19589782",
+                    "PMID:17502379",
+                    "PMID:27808477",
+                    "PMID:19074848",
+                    "PMID:22908229",
+                    "PMID:19666581",
+                    "PMID:22807441",
+                    "PMID:21148070",
+                    "PMID:22075993",
+                    "PMID:20620956"
+                  ],
+                  "value_type_id": "linkml:Uriorcurie",
+                  "attribute_type_id": "biolink:publications"
+                }
+              ]
+            },
+            "96048bedb1d0401a83d50f339808301b": {
+              "object": "NCBIGene:3718",
+              "sources": [
+                {
+                  "resource_id": "infores:monarchinitiative",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:biolink-api",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:monarchinitiative"
+                  ]
+                },
+                {
+                  "resource_id": "infores:biothings-explorer",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:biolink-api"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:5291",
+              "predicate": "biolink:interacts_with",
+              "attributes": []
+            },
+            "96d20a5d0420194abf27a8ea91370c4d": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:automat-biolink",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:sri-reference-kg"
+                  ]
+                },
+                {
+                  "resource_id": "infores:sri-reference-kg",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:biothings-explorer",
+                  "resource_role": "aggregator_knowledge_source",
+                  "upstream_resource_ids": [
+                    "infores:automat-biolink"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:interacts_with",
+              "attributes": []
+            },
+            "3ef4c90e-51d4-4339-af9d-5d283102eb35": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:omnicorp",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:occurs_together_in_literature_with",
+              "attributes": [
+                {
+                  "value": 38,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_type_id": "biolink:has_count",
+                  "original_attribute_name": "num_publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "f369888d-301e-438d-924e-ac9bb904c89d": {
+              "object": "NCBIGene:5291",
+              "sources": [
+                {
+                  "resource_id": "infores:omnicorp",
+                  "resource_role": "primary_knowledge_source"
+                },
+                {
+                  "resource_id": "infores:aragorn",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                }
+              ],
+              "subject": "NCBIGene:3718",
+              "predicate": "biolink:occurs_together_in_literature_with",
+              "attributes": [
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_type_id": "biolink:has_count",
+                  "original_attribute_name": "num_publications"
+                },
+                {
+                  "value": 1,
+                  "value_type_id": "EDAM:data_1669",
+                  "attribute_type_id": "biolink:has_numeric_value",
+                  "original_attribute_name": "weight"
+                }
+              ]
+            },
+            "infores:automat-hetio:NCBIGene:2033--biolink:regulates--None--None--None--NCBIGene:3091--infores:lincs": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:lincs",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:lincs"
+                  ]
+                },
+                {
+                  "resource_id": "infores:automat-hetio",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:automat-hetio"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:regulates",
+              "attributes": [],
+              "qualifiers": null
+            },
+            "infores:spoke:UniProtKB:P42338--biolink:interacts_with--None--None--None--UniProtKB:P52333--infores:string": {
+              "object": "NCBIGene:3718",
+              "sources": [
+                {
+                  "resource_id": "infores:string",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:string"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:5291",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": 0.9278611372,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "neighborhood_score"
+                },
+                {
+                  "value": 0.123,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "textmining_score"
+                },
+                {
+                  "value": 0.9,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "databases_score"
+                },
+                {
+                  "value": 0.124,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "experiments_score"
+                },
+                {
+                  "value": 0.9124,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "exp_score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "fusion_score"
+                },
+                {
+                  "value": 0.061,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "coexpression_score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "cooccurrence_score"
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:spoke:UniProtKB:Q09472--biolink:interacts_with--None--None--None--UniProtKB:Q16665--infores:string": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:string",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:string"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": 0.999051598,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "neighborhood_score"
+                },
+                {
+                  "value": 0.614,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "textmining_score"
+                },
+                {
+                  "value": 0.9,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "databases_score"
+                },
+                {
+                  "value": 0.974,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "experiments_score"
+                },
+                {
+                  "value": 0.9974,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "exp_score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "fusion_score"
+                },
+                {
+                  "value": 0.055,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "coexpression_score"
+                },
+                {
+                  "value": 0.0,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:string",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "cooccurrence_score"
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:rtx-kg2:NCBIGene:2033--biolink:physically_interacts_with--None--None--None--NCBIGene:3091--infores:intact": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q09472---MI:0915---None---None---None---UniProtKB:Q16665---identifiers_org_registry:intact"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:original_predicate",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": [
+                    "PMID:15261140"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:rtx-kg2:NCBIGene:3091--biolink:physically_interacts_with--None--None--None--NCBIGene:2033--infores:intact": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q16665---MI:0915---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact",
+                    "UniProtKB:Q16665---MI:0914---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:original_predicate",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": [
+                    "PMID:19071119",
+                    "PMID:23746844"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:rtx-kg2:NCBIGene:2033--biolink:physically_interacts_with--None--None--None--NCBIGene:3091--infores:semmeddb": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:semmeddb",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:semmeddb"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UMLS:C1333336---SEMMEDDB:interacts_with---None---None---None---NCBIGene:3091---SEMMEDDB:",
+                    "UMLS:C1333336---SEMMEDDB:interacts_with---None---None---None---UMLS:C1333897---SEMMEDDB:",
+                    "UMLS:C1530358---SEMMEDDB:interacts_with---None---None---None---NCBIGene:3091---SEMMEDDB:"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:original_predicate",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": [
+                    "PMID:34472840",
+                    "PMID:35635894",
+                    "PMID:35656479",
+                    "PMID:32211322",
+                    "PMID:22908229"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:semmeddb",
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": {
+                    "PMID:22908229": {
+                      "sentence": "Mechanistically, p300 specifically acetylates HIF1alpha at Lys-709, which increases the protein stability and decreases polyubiquitination in both normoxia and hypoxia.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2012 Oct 12"
+                    },
+                    "PMID:32211322": {
+                      "sentence": "Our data suggested that NLGP prevented hypoxia-induced strong binding of HIF1alpha with its co-factors, CBP/p300 and Sp3, but not with Sp1, which eventually limit the binding of HIF1alpha-transcriptional complex to hypoxia responsive element of VEGF promoter and results in restricted early VEGF transcription.",
+                      "object score": 1000,
+                      "subject score": 888,
+                      "publication date": "2020"
+                    },
+                    "PMID:34472840": {
+                      "sentence": "Disrupting the interaction between HIF1alpha and p300 is a promising strategy to modulate the hypoxia response of tumor cells.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2021 Sep 02"
+                    },
+                    "PMID:35635894": {
+                      "sentence": "HIF-1alpha activity is mainly regulated by its transcriptional co-activator p300 which has histone acetyl-transferase (HAT) activity.",
+                      "object score": 901,
+                      "subject score": 861,
+                      "publication date": "2022 May 18"
+                    },
+                    "PMID:35656479": {
+                      "sentence": "Although there is significant structural and mechanistic understanding of the interaction between HIF-1alpha and p300 alongside negative regulators of HIF-1alpha such as CITED2, there remains a need to further understand the sequence determinants of binding.",
+                      "object score": 1000,
+                      "subject score": 1000,
+                      "publication date": "2022 May 11"
+                    }
+                  },
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:semmeddb",
+                  "attribute_type_id": "bts:sentence",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:automat-hetio:NCBIGene:2033--biolink:genetically_interacts_with--None--None--None--NCBIGene:3091--infores:hetionet": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                },
+                {
+                  "resource_id": "infores:automat-hetio",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:hetionet"
+                  ]
+                },
+                {
+                  "resource_id": "infores:hetionet",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:automat-hetio"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:genetically_interacts_with",
+              "attributes": [],
+              "qualifiers": null
+            },
+            "infores:rtx-kg2:NCBIGene:2033--biolink:directly_physically_interacts_with--None--None--None--NCBIGene:3091--infores:intact": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q09472---MI:0407---None---None---None---UniProtKB:Q16665---identifiers_org_registry:intact"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:original_predicate",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": [
+                    "PMID:17382325"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:rtx-kg2:NCBIGene:3091--biolink:directly_physically_interacts_with--None--None--None--NCBIGene:2033--infores:intact": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:rtx-kg2",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:rtx-kg2"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "UniProtKB:Q16665---MI:0407---None---None---None---UniProtKB:Q09472---identifiers_org_registry:intact"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": "The IDs of the original RTX-KG2pre edge(s) corresponding to this edge prior to any synonymization or remapping.",
+                  "value_type_id": "metatype:String",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:original_predicate",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": [
+                    "PMID:17382325"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "biolink:Uriorcurie",
+                  "attribute_source": "infores:intact",
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:spoke:NCBIGene:3091--biolink:regulates--biolink:causes--decreased--activity_or_abundance--NCBIGene:2033--infores:lincs": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:lincs",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:spoke",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:lincs"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:spoke"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:regulates",
+              "attributes": [
+                {
+                  "value": -5.768292242717185,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:has_evidence",
+                  "original_attribute_name": "zscore"
+                },
+                {
+                  "value": 7.831711846682216e-06,
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": "infores:lincs",
+                  "attribute_type_id": "biolink:p_value",
+                  "original_attribute_name": "pvalue"
+                }
+              ],
+              "qualifiers": [
+                {
+                  "qualifier_value": "activity_or_abundance",
+                  "qualifier_type_id": "biolink:object_aspect_qualifier"
+                },
+                {
+                  "qualifier_value": "decreased",
+                  "qualifier_type_id": "biolink:object_direction_qualifier"
+                },
+                {
+                  "qualifier_value": "biolink:causes",
+                  "qualifier_type_id": "biolink:qualified_predicate"
+                }
+              ]
+            },
+            "infores:service-provider-trapi:NCBIGene:3091--biolink:interacts_with--None--None--None--NCBIGene:2033--infores:monarchinitiative": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:monarchinitiative",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:biolink-api",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:monarchinitiative"
+                  ]
+                },
+                {
+                  "resource_id": "infores:service-provider-trapi",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:biolink-api"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:service-provider-trapi"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:interacts_with",
+              "attributes": [
+                {
+                  "value": [
+                    "PMID:20603618",
+                    "PMID:12588875",
+                    "PMID:25192544",
+                    "PMID:8917528",
+                    "PMID:15280364",
+                    "PMID:21187066",
+                    "PMID:26826385",
+                    "PMID:15155277",
+                    "PMID:16189267",
+                    "PMID:15342390",
+                    "PMID:15261140",
+                    "PMID:20000859",
+                    "PMID:26135796",
+                    "PMID:19940151",
+                    "PMID:24421387",
+                    "PMID:12042299",
+                    "PMID:18047470",
+                    "PMID:11823643",
+                    "PMID:16081065",
+                    "PMID:14691445",
+                    "PMID:22789427",
+                    "PMID:15154850",
+                    "PMID:11940656",
+                    "PMID:12914934",
+                    "PMID:23618863",
+                    "PMID:16543236",
+                    "PMID:27320910",
+                    "PMID:23448368",
+                    "PMID:23746844",
+                    "PMID:22684029",
+                    "PMID:26944191",
+                    "PMID:23880760",
+                    "PMID:24821806",
+                    "PMID:11063749",
+                    "PMID:16847340",
+                    "PMID:19696166",
+                    "PMID:20829524",
+                    "PMID:17906695",
+                    "PMID:22735262",
+                    "PMID:12778114",
+                    "PMID:19680224",
+                    "PMID:11959990",
+                    "PMID:22219185",
+                    "PMID:23966271",
+                    "PMID:19589782",
+                    "PMID:17502379",
+                    "PMID:27808477",
+                    "PMID:19074848",
+                    "PMID:22908229",
+                    "PMID:19666581",
+                    "PMID:22807441",
+                    "PMID:21148070",
+                    "PMID:22075993",
+                    "PMID:20620956"
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "linkml:Uriorcurie",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:service-provider-trapi:NCBIGene:5291--biolink:interacts_with--None--None--None--NCBIGene:3718--infores:monarchinitiative": {
+              "object": "NCBIGene:3718",
+              "sources": [
+                {
+                  "resource_id": "infores:monarchinitiative",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:biolink-api",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:monarchinitiative"
+                  ]
+                },
+                {
+                  "resource_id": "infores:service-provider-trapi",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:biolink-api"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:service-provider-trapi"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:5291",
+              "predicate": "biolink:interacts_with",
+              "attributes": [],
+              "qualifiers": null
+            },
+            "infores:service-provider-trapi:NCBIGene:3091--biolink:physically_interacts_with--None--None--None--NCBIGene:2033--infores:biogrid": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:biogrid",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:biothings-multiomics-biggim-drugresponse",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:biogrid"
+                  ]
+                },
+                {
+                  "resource_id": "infores:service-provider-trapi",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:biothings-multiomics-biggim-drugresponse"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:service-provider-trapi"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:physically_interacts_with",
+              "attributes": [
+                {
+                  "value": "PMID:23880760",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": "infores:biogrid",
+                  "value_url": null,
+                  "attributes": [
+                    {
+                      "value": "infores:biogrid",
+                      "value_url": null,
+                      "attributes": null,
+                      "description": null,
+                      "value_type_id": null,
+                      "attribute_source": null,
+                      "attribute_type_id": "biolink:source_infores",
+                      "original_attribute_name": null
+                    }
+                  ],
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:primary_knowledge_source",
+                  "original_attribute_name": null
+                },
+                {
+                  "value": "infores:biothings-multiomics-biggim-drugresponse",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:aggregator_knowledge_source",
+                  "original_attribute_name": null
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:automat-intact:UniProtKB:Q09472--biolink:directly_physically_interacts_with--None--None--None--UniProtKB:Q16665--infores:intact": {
+              "object": "NCBIGene:3091",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:automat-intact",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:automat-intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:2033",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": "MI:0405|MI:0051",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:Attribute",
+                  "original_attribute_name": "detection_method"
+                },
+                {
+                  "value": "PMID:17382325",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": "publications"
+                }
+              ],
+              "qualifiers": null
+            },
+            "infores:automat-intact:UniProtKB:Q16665--biolink:directly_physically_interacts_with--None--None--None--UniProtKB:Q09472--infores:intact": {
+              "object": "NCBIGene:2033",
+              "sources": [
+                {
+                  "resource_id": "infores:intact",
+                  "resource_role": "primary_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": null
+                },
+                {
+                  "resource_id": "infores:automat-intact",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:intact"
+                  ]
+                },
+                {
+                  "resource_id": "infores:arax",
+                  "resource_role": "aggregator_knowledge_source",
+                  "source_record_urls": null,
+                  "upstream_resource_ids": [
+                    "infores:automat-intact"
+                  ]
+                }
+              ],
+              "subject": "NCBIGene:3091",
+              "predicate": "biolink:directly_physically_interacts_with",
+              "attributes": [
+                {
+                  "value": "MI:0006|MI:0096|MI:0018",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:Attribute",
+                  "original_attribute_name": "detection_method"
+                },
+                {
+                  "value": "PMID:15261140",
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": "EDAM:data_0006",
+                  "attribute_source": null,
+                  "attribute_type_id": "biolink:publications",
+                  "original_attribute_name": "publications"
+                }
+              ],
+              "qualifiers": null
+            }
+          },
+          "nodes": {
+            "NCBIGene:2033": {
+              "name": "EP300",
+              "attributes": [
+                {
+                  "value": [
+                    {
+                      "MIM": "602700",
+                      "_id": "2033",
+                      "HGNC": "3373",
+                      "name": "E1A binding protein p300",
+                      "alias": [
+                        "KAT3B",
+                        "MKHK2",
+                        "RSTS2",
+                        "p300"
+                      ],
+                      "query": "2033",
+                      "_score": 26.068533,
+                      "symbol": "EP300",
+                      "summary": "This gene encodes the adenovirus E1A-associated cellular p300 transcriptional co-activator protein. It functions as histone acetyltransferase that regulates transcription via chromatin remodeling and is important in the processes of cell proliferation and differentiation. It mediates cAMP-gene regulation by binding specifically to phosphorylated CREB protein. This gene has also been identified as a co-activator of HIF1A (hypoxia-inducible factor 1 alpha), and thus plays a role in the stimulation of hypoxia-induced genes such as VEGF. Defects in this gene are a cause of Rubinstein-Taybi syndrome and may also play a role in epithelial cancer. [provided by RefSeq, Jul 2008].",
+                      "interpro": [
+                        {
+                          "id": "IPR003101",
+                          "desc": "Coactivator CBP, KIX domain",
+                          "short_desc": "KIX_dom"
+                        },
+                        {
+                          "id": "IPR013178",
+                          "desc": "Histone acetyltransferase Rtt109/CBP",
+                          "short_desc": "Histone_AcTrfase_Rtt109/CBP"
+                        },
+                        {
+                          "id": "IPR036529",
+                          "desc": "Coactivator CBP, KIX domain superfamily",
+                          "short_desc": "KIX_dom_sf"
+                        },
+                        {
+                          "id": "IPR000197",
+                          "desc": "Zinc finger, TAZ-type",
+                          "short_desc": "Znf_TAZ"
+                        },
+                        {
+                          "id": "IPR000433",
+                          "desc": "Zinc finger, ZZ-type",
+                          "short_desc": "Znf_ZZ"
+                        },
+                        {
+                          "id": "IPR001487",
+                          "desc": "Bromodomain",
+                          "short_desc": "Bromodomain"
+                        },
+                        {
+                          "id": "IPR009110",
+                          "desc": "Nuclear receptor coactivator, interlocking",
+                          "short_desc": "Nuc_rcpt_coact"
+                        },
+                        {
+                          "id": "IPR010303",
+                          "desc": "CREB-binding protein/p300, atypical RING domain",
+                          "short_desc": "RING_CBP-p300"
+                        },
+                        {
+                          "id": "IPR013083",
+                          "desc": "Zinc finger, RING/FYVE/PHD-type",
+                          "short_desc": "Znf_RING/FYVE/PHD"
+                        },
+                        {
+                          "id": "IPR014744",
+                          "desc": "Nuclear receptor coactivator, CREB-bp-like, interlocking",
+                          "short_desc": "Nuc_rcpt_coact_CREBbp"
+                        },
+                        {
+                          "id": "IPR018359",
+                          "desc": "Bromodomain, conserved site",
+                          "short_desc": "Bromodomain_CS"
+                        },
+                        {
+                          "id": "IPR031162",
+                          "desc": "CBP/p300-type histone acetyltransferase domain",
+                          "short_desc": "CBP_P300_HAT"
+                        },
+                        {
+                          "id": "IPR035898",
+                          "desc": "TAZ domain superfamily",
+                          "short_desc": "TAZ_dom_sf"
+                        },
+                        {
+                          "id": "IPR036427",
+                          "desc": "Bromodomain-like superfamily",
+                          "short_desc": "Bromodomain-like_sf"
+                        },
+                        {
+                          "id": "IPR037073",
+                          "desc": "Nuclear receptor coactivator, CREB-bp-like, interlocking domain superfamily",
+                          "short_desc": "Nuc_rcpt_coact_CREBbp_sf"
+                        },
+                        {
+                          "id": "IPR038547",
+                          "desc": "CBP/p300, atypical RING domain superfamily",
+                          "short_desc": "RING_CBP-p300_sf"
+                        },
+                        {
+                          "id": "IPR043145",
+                          "desc": "Zinc finger, ZZ-type superfamily",
+                          "short_desc": "Znf_ZZ_sf"
+                        }
+                      ],
+                      "type_of_gene": "protein-coding"
+                    }
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biothings_annotations",
+                  "original_attribute_name": null
+                }
+              ],
+              "categories": [
+                "biolink:Gene",
+                "biolink:Protein",
+                "biolink:OntologyClass",
+                "biolink:GenomicEntity",
+                "biolink:PhysicalEssenceOrOccurrent",
+                "biolink:PhysicalEssence",
+                "biolink:NamedThing",
+                "biolink:Entity",
+                "biolink:MacromolecularMachineMixin",
+                "biolink:BiologicalEntity",
+                "biolink:GeneOrGeneProduct",
+                "biolink:ThingWithTaxon",
+                "biolink:ChemicalEntityOrGeneOrGeneProduct"
+              ]
+            },
+            "NCBIGene:3091": {
+              "name": "HIF1A",
+              "attributes": [
+                {
+                  "value": [
+                    {
+                      "MIM": "603348",
+                      "_id": "3091",
+                      "HGNC": "4910",
+                      "name": "hypoxia inducible factor 1 subunit alpha",
+                      "alias": [
+                        "HIF-1-alpha",
+                        "HIF-1A",
+                        "HIF-1alpha",
+                        "HIF1",
+                        "HIF1-ALPHA",
+                        "MOP1",
+                        "PASD8",
+                        "bHLHe78"
+                      ],
+                      "query": "3091",
+                      "_score": 26.068903,
+                      "symbol": "HIF1A",
+                      "summary": "This gene encodes the alpha subunit of transcription factor hypoxia-inducible factor-1 (HIF-1), which is a heterodimer composed of an alpha and a beta subunit. HIF-1 functions as a master regulator of cellular and systemic homeostatic response to hypoxia by activating transcription of many genes, including those involved in energy metabolism, angiogenesis, apoptosis, and other genes whose protein products increase oxygen delivery or facilitate metabolic adaptation to hypoxia. HIF-1 thus plays an essential role in embryonic vascularization, tumor angiogenesis and pathophysiology of ischemic disease. Alternatively spliced transcript variants encoding different isoforms have been identified for this gene. [provided by RefSeq, Jul 2011].",
+                      "interpro": [
+                        {
+                          "id": "IPR000014",
+                          "desc": "PAS domain",
+                          "short_desc": "PAS"
+                        },
+                        {
+                          "id": "IPR001321",
+                          "desc": "Hypoxia-inducible factor-1 alpha",
+                          "short_desc": "HIF-1_alpha"
+                        },
+                        {
+                          "id": "IPR001610",
+                          "desc": "PAC motif",
+                          "short_desc": "PAC"
+                        },
+                        {
+                          "id": "IPR011598",
+                          "desc": "Myc-type, basic helix-loop-helix (bHLH) domain",
+                          "short_desc": "bHLH_dom"
+                        },
+                        {
+                          "id": "IPR013655",
+                          "desc": "PAS fold-3",
+                          "short_desc": "PAS_fold_3"
+                        },
+                        {
+                          "id": "IPR013767",
+                          "desc": "PAS fold",
+                          "short_desc": "PAS_fold"
+                        },
+                        {
+                          "id": "IPR014887",
+                          "desc": "HIF-1 alpha, transactivation domain, C-terminal",
+                          "short_desc": "HIF-1_TAD_C"
+                        },
+                        {
+                          "id": "IPR021537",
+                          "desc": "Hypoxia-inducible factor, alpha subunit-like",
+                          "short_desc": "HIF_alpha-like"
+                        },
+                        {
+                          "id": "IPR035965",
+                          "desc": "PAS domain superfamily",
+                          "short_desc": "PAS-like_dom_sf"
+                        },
+                        {
+                          "id": "IPR036638",
+                          "desc": "Helix-loop-helix DNA-binding domain superfamily",
+                          "short_desc": "HLH_DNA-bd_sf"
+                        }
+                      ],
+                      "type_of_gene": "protein-coding"
+                    }
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biothings_annotations",
+                  "original_attribute_name": null
+                }
+              ],
+              "categories": [
+                "biolink:Gene",
+                "biolink:Protein",
+                "biolink:OntologyClass",
+                "biolink:GenomicEntity",
+                "biolink:PhysicalEssenceOrOccurrent",
+                "biolink:PhysicalEssence",
+                "biolink:NamedThing",
+                "biolink:Entity",
+                "biolink:MacromolecularMachineMixin",
+                "biolink:BiologicalEntity",
+                "biolink:GeneOrGeneProduct",
+                "biolink:ThingWithTaxon",
+                "biolink:ChemicalEntityOrGeneOrGeneProduct"
+              ]
+            },
+            "NCBIGene:3718": {
+              "name": "JAK3",
+              "attributes": [
+                {
+                  "value": [
+                    {
+                      "MIM": "600173",
+                      "_id": "3718",
+                      "HGNC": "6193",
+                      "name": "Janus kinase 3",
+                      "alias": [
+                        "JAK-3",
+                        "JAK3_HUMAN",
+                        "JAKL",
+                        "L-JAK",
+                        "LJAK"
+                      ],
+                      "query": "3718",
+                      "_score": 26.068903,
+                      "symbol": "JAK3",
+                      "summary": "The protein encoded by this gene is a member of the Janus kinase (JAK) family of tyrosine kinases involved in cytokine receptor-mediated intracellular signal transduction. It is predominantly expressed in immune cells and transduces a signal in response to its activation via tyrosine phosphorylation by interleukin receptors. Mutations in this gene are associated with autosomal SCID (severe combined immunodeficiency disease). [provided by RefSeq, Jul 2008].",
+                      "interpro": [
+                        {
+                          "id": "IPR000299",
+                          "desc": "FERM domain",
+                          "short_desc": "FERM_domain"
+                        },
+                        {
+                          "id": "IPR000719",
+                          "desc": "Protein kinase domain",
+                          "short_desc": "Prot_kinase_dom"
+                        },
+                        {
+                          "id": "IPR000980",
+                          "desc": "SH2 domain",
+                          "short_desc": "SH2"
+                        },
+                        {
+                          "id": "IPR001245",
+                          "desc": "Serine-threonine/tyrosine-protein kinase, catalytic domain",
+                          "short_desc": "Ser-Thr/Tyr_kinase_cat_dom"
+                        },
+                        {
+                          "id": "IPR008266",
+                          "desc": "Tyrosine-protein kinase, active site",
+                          "short_desc": "Tyr_kinase_AS"
+                        },
+                        {
+                          "id": "IPR011009",
+                          "desc": "Protein kinase-like domain superfamily",
+                          "short_desc": "Kinase-like_dom_sf"
+                        },
+                        {
+                          "id": "IPR011993",
+                          "desc": "PH-like domain superfamily",
+                          "short_desc": "PH-like_dom_sf"
+                        },
+                        {
+                          "id": "IPR016251",
+                          "desc": "Tyrosine-protein kinase, non-receptor Jak/Tyk2",
+                          "short_desc": "Tyr_kinase_non-rcpt_Jak/Tyk2"
+                        },
+                        {
+                          "id": "IPR017441",
+                          "desc": "Protein kinase, ATP binding site",
+                          "short_desc": "Protein_kinase_ATP_BS"
+                        },
+                        {
+                          "id": "IPR019749",
+                          "desc": "Band 4.1 domain",
+                          "short_desc": "Band_41_domain"
+                        },
+                        {
+                          "id": "IPR020635",
+                          "desc": "Tyrosine-protein kinase, catalytic domain",
+                          "short_desc": "Tyr_kinase_cat_dom"
+                        },
+                        {
+                          "id": "IPR020775",
+                          "desc": "Tyrosine-protein kinase, non-receptor Jak3",
+                          "short_desc": "Tyr_kinase_non-rcpt_Jak3"
+                        },
+                        {
+                          "id": "IPR036860",
+                          "desc": "SH2 domain superfamily",
+                          "short_desc": "SH2_dom_sf"
+                        },
+                        {
+                          "id": "IPR041046",
+                          "desc": "JAK, FERM F2 lobe domain",
+                          "short_desc": "FERM_F2"
+                        },
+                        {
+                          "id": "IPR041155",
+                          "desc": "FERM F1 lobe ubiquitin-like domain",
+                          "short_desc": "FERM_F1"
+                        },
+                        {
+                          "id": "IPR041381",
+                          "desc": "JAK1-3/TYK2, pleckstrin homology-like domain",
+                          "short_desc": "JAK1-3/TYK2_PHL_dom"
+                        }
+                      ],
+                      "type_of_gene": "protein-coding"
+                    }
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biothings_annotations",
+                  "original_attribute_name": null
+                }
+              ],
+              "categories": [
+                "biolink:Gene",
+                "biolink:Protein"
+              ]
+            },
+            "NCBIGene:5291": {
+              "name": "PIK3CB",
+              "attributes": [
+                {
+                  "value": [
+                    {
+                      "MIM": "602925",
+                      "_id": "5291",
+                      "HGNC": "8976",
+                      "name": "phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",
+                      "alias": [
+                        "P110BETA",
+                        "PI3K",
+                        "PI3KBETA",
+                        "PIK3C1"
+                      ],
+                      "query": "5291",
+                      "_score": 26.06837,
+                      "symbol": "PIK3CB",
+                      "summary": "This gene encodes an isoform of the catalytic subunit of phosphoinositide 3-kinase (PI3K). These kinases are important in signaling pathways involving receptors on the outer membrane of eukaryotic cells and are named for their catalytic subunit. The encoded protein is the catalytic subunit for PI3Kbeta (PI3KB). PI3KB has been shown to be part of the activation pathway in neutrophils which have bound immune complexes at sites of injury or infection. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Dec 2011].",
+                      "interpro": [
+                        {
+                          "id": "IPR000403",
+                          "desc": "Phosphatidylinositol 3-/4-kinase, catalytic domain",
+                          "short_desc": "PI3/4_kinase_cat_dom"
+                        },
+                        {
+                          "id": "IPR001263",
+                          "desc": "Phosphoinositide 3-kinase, accessory (PIK) domain",
+                          "short_desc": "PI3K_accessory_dom"
+                        },
+                        {
+                          "id": "IPR011009",
+                          "desc": "Protein kinase-like domain superfamily",
+                          "short_desc": "Kinase-like_dom_sf"
+                        },
+                        {
+                          "id": "IPR015433",
+                          "desc": "Phosphatidylinositol kinase",
+                          "short_desc": "PI_Kinase"
+                        },
+                        {
+                          "id": "IPR016024",
+                          "desc": "Armadillo-type fold",
+                          "short_desc": "ARM-type_fold"
+                        },
+                        {
+                          "id": "IPR018936",
+                          "desc": "Phosphatidylinositol 3/4-kinase, conserved site",
+                          "short_desc": "PI3/4_kinase_CS"
+                        },
+                        {
+                          "id": "IPR036940",
+                          "desc": "Phosphatidylinositol 3-/4-kinase, catalytic domain superfamily",
+                          "short_desc": "PI3/4_kinase_cat_sf"
+                        },
+                        {
+                          "id": "IPR037702",
+                          "desc": "PI3Kbeta, catalytic domain",
+                          "short_desc": "PI3Kbeta_dom"
+                        },
+                        {
+                          "id": "IPR042236",
+                          "desc": "Phosphoinositide 3-kinase, accessory (PIK) domain superfamily",
+                          "short_desc": "PI3K_accessory_sf"
+                        },
+                        {
+                          "id": "IPR000341",
+                          "desc": "Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain",
+                          "short_desc": "PI3K_Ras-bd_dom"
+                        },
+                        {
+                          "id": "IPR002420",
+                          "desc": "C2 phosphatidylinositol 3-kinase-type domain",
+                          "short_desc": "PI3K-type_C2_dom"
+                        },
+                        {
+                          "id": "IPR003113",
+                          "desc": "Phosphatidylinositol 3-kinase, adaptor-binding domain",
+                          "short_desc": "PI3K_ABD"
+                        },
+                        {
+                          "id": "IPR029071",
+                          "desc": "Ubiquitin-like domain superfamily",
+                          "short_desc": "Ubiquitin-like_domsf"
+                        },
+                        {
+                          "id": "IPR035892",
+                          "desc": "C2 domain superfamily",
+                          "short_desc": "C2_domain_sf"
+                        },
+                        {
+                          "id": "IPR008290",
+                          "desc": "Phosphatidylinositol 3-kinase, Vps34 type",
+                          "short_desc": "PI3K_Vps34"
+                        }
+                      ],
+                      "type_of_gene": "protein-coding"
+                    }
+                  ],
+                  "value_url": null,
+                  "attributes": null,
+                  "description": null,
+                  "value_type_id": null,
+                  "attribute_source": null,
+                  "attribute_type_id": "biothings_annotations",
+                  "original_attribute_name": null
+                }
+              ],
+              "categories": [
+                "biolink:Gene",
+                "biolink:Protein"
+              ]
+            }
+          }
+        },
+        "auxiliary_graphs": {}
+      }
+    },
+    "url": null,
+    "ref": null,
+    "result_count": null,
+    "result_stat": null,
+    "retain": false,
+    "merge_semaphore": false,
+    "merged_version": null,
+    "merged_versions_list": null
+  }
+}

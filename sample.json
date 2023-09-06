@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "source": {
+                "id": "ENSEMBL:ENSG00000051382",
+                "name": "PIK3CB"
+            },
+            "target": {
+                "id": "ENSEMBL:ENSG00000057657",
+                "name": "PRDM1"
+            }
+        },{
+            "source": {
+                "id": "ENSEMBL:ENSG00000051382",
+                "name": "PIK3CB"
+            },
+            "target": {
+                "id": "ENSEMBL:ENSG00000100393",
+                "name": "EP300"
+            }
+        },{
+            "source": {
+                "id": "ENSEMBL:ENSG00000100644",
+                "name": "HIF1A"
+            },
+            "target": {
+                "id": "ENSEMBL:ENSG00000100393",
+                "name": "EP300"
+            }
+        },{
+            "source": {
+                "id": "ENSEMBL:ENSG00000100644",
+                "name": "HIF1A"
+            },
+            "target": {
+                "id": "ENSEMBL:ENSG00000105639",
+                "name": "JAK3"
+            }
+        }
+    ],
+    "directed": true
+}
