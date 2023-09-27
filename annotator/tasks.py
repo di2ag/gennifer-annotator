@@ -22,8 +22,9 @@ def create_annotation_task(data, directed):
     for e in data:
         source_name = e["source"]["name"]
         target_name = e["target"]["name"]
-        e["justification"] = get_openai_justification(source_name, target_name, directed)
-    result_obj = get_translator_results(data, directed, None)
-    #with open('result.json', 'r') as res_file:
-    #    result = Query.parse_obj(json.load(res_file)["fields"]["data"])
-    return parse_translator_results(data, result_obj["result"], directed)
+        e["justification"] = None #get_openai_justification(source_name, target_name, directed)
+    #result_obj = get_translator_results(data, directed, None)
+    with open('result-gsd-pidc.json', 'r') as res_file:
+        result = Query.parse_obj(json.load(res_file)["fields"]["data"])
+    #return parse_translator_results(data, result_obj["result"], directed)
+    return parse_translator_results(data, result, directed)

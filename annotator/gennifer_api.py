@@ -199,7 +199,6 @@ def create_normalization_map(nodes):
 def parse_translator_results(data, result, directed):
     all_curies = set.union(set([d["source"]["id"] for d in data]), set([d["target"]["id"] for d in data]))
     normed_map = create_normalization_map(list(all_curies))
-    results = []
     # Create a source, target to subject, object map
     if directed:
         data_map = {(d["source"]["id"], d["target"]["id"]): idx for idx, d in enumerate(data)}
@@ -210,16 +209,17 @@ def parse_translator_results(data, result, directed):
             for q_edge_key, edge_bindings in analysis.edge_bindings.items():
                 for edge_binding in edge_bindings:
                     kedge = result.message.knowledge_graph.edges[edge_binding.id]
-                    mapped_subject = normed_map[kedge.subject]
-                    mapped_object = normed_map[kedge.object]
+                    try:
+                        mapped_subject = normed_map[kedge.subject]
+                        mapped_object = normed_map[kedge.object]
+                    except KeyError:
+                        continue
                     if directed:
                         subject_object_tup = (mapped_subject, mapped_object)
                     else:
                         subject_object_tup = tuple(sorted([mapped_subject, mapped_object]))
                     if subject_object_tup not in data_map:
                         continue
-                    else:
-                        print('Found result.')
                     qualified_predicate = None
                     object_modifier = None
                     object_aspect = None
@@ -243,7 +243,10 @@ def parse_translator_results(data, result, directed):
                     if kedge.attributes:
                         for attribute in kedge.attributes:
                             if attribute.attribute_type_id == 'biolink:publications':
-                                publications = attribute.value
+                                if type(attribute.value) == str:
+                                    publications = [attribute.value]
+                                else:
+                                    publications = list(attribute.value)
                     # Build result object
                     if 'results' not in data[data_map[subject_object_tup]]:
                         data[data_map[subject_object_tup]]["results"] = []
@@ -258,4 +261,8 @@ def parse_translator_results(data, result, directed):
                                 "publications": publications,
                                 }
                             )
+    # Add empty results key to edges that no results were found.
+    for idx, item in enumerate(data):
+        if 'results' not in item:
+            data[idx]["results"] = []
     return data
